@@ -1,4 +1,4 @@
-import { useRef, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import IconMoon from "./icons/IconMoon";
 import IconSun from "./icons/IconSun";
 
